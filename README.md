@@ -1,12 +1,15 @@
 # PornHubDump
 
 ## LINUX OR UBUNTU
-''' 
+``` 
 git clone https://github.com/Jinx-CrazyCode/PornHubDump
+
 cd PornHubDump
+
 pip install phlib
+
 python main.py
-'''
+```
 
 ## WINDOWS
 # Requirements
