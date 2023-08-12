@@ -5,6 +5,8 @@
 git clone https://github.com/Jinx-CrazyCode/PornHubDump
 cd PornHubDump
 pip install phlib
+pip install colorama
+pip install pystyle
 python main.py
 ```
 
@@ -14,6 +16,8 @@ For Windows it's a bit different you have to install the folder from GitHub and 
 ```
 cd path folder
 pip install phlib
+pip install colorama
+pip install pystyle
 python main.py
 ```
 ## DISCORD
